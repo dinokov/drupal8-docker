@@ -12,7 +12,6 @@ working on your Drupal8 project.
 ## 1 - Download and run:
 ```
 git clone https://github.com/dinokov/drupal8-docker.git
-sudo chown -vR damir:damir ./drupal-1
 cd drupal8-docker
 sudo docker-compose up
 ```
